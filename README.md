@@ -6,19 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [math](#math) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 
 ### brute force
 
@@ -37,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 
 ### math
@@ -44,6 +53,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 
 ### strings
 
