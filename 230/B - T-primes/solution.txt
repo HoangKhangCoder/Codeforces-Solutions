@@ -1,0 +1,23 @@
+from math import isqrt
+ 
+n = int(input())
+nums = list(map(int, input().split()))
+ 
+limit = 10**6 + 1
+isPrimes = bytearray([1] * limit)
+isPrimes[0] = isPrimes[1] = 0
+ 
+for i in range(2, isqrt(limit) + 1):
+    if not isPrimes[i]:
+        continue
+    isPrimes[i * i : limit : i] = bytearray(len(range(i * i, limit, i)))
+ 
+for num in nums:
+    square = isqrt(num)
+    if square**2 != num:
+        print("NO")
+        continue
+    if isPrimes[square]:
+        print("YES")
+    else:
+        print("NO")
