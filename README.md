@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
 
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
 
 ### implementation
@@ -62,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 
 ### number theory
