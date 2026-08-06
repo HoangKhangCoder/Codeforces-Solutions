@@ -6,21 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 
 ### binary search
 
@@ -46,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.txt) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 
