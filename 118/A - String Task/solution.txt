@@ -1,0 +1,7 @@
+s = input().lower()
+ans = ""
+for char in s:
+    if char in ["a", "o", "y", "e", "u", "i"]:
+        continue
+    ans += f".{char}"
+print(ans)
