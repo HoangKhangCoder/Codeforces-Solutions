@@ -1,0 +1,12 @@
+s = input()
+i = 0
+string = "hello"
+for char in s:
+    if char == string[i]:
+        i += 1
+    if i == len(string):
+        break
+if i == len(string):
+    print("YES")
+else:
+    print("NO")
