@@ -1,0 +1,27 @@
+from itertools import accumulate
+ 
+n, t = map(int, input().split())
+a = list(map(int, input().split()))
+ 
+prefix = [0] + list(accumulate(a))
+ans = 0
+ 
+for l in range(n):
+    if a[l] > t:
+        continue
+    
+    minus = prefix[l]
+    low = l
+    high = n - 1
+    
+    while low <= high:
+        mid = (low + high) // 2
+        time = prefix[mid + 1] - minus
+        
+        if time > t:
+            high = mid - 1
+        else:
+            ans = max(ans, mid - l + 1)
+            low = mid + 1
+ 
+print(ans)
