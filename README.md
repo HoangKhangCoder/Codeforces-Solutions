@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
+- [binary search](#binary-search) (2)
+- [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (5)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -34,6 +35,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 
 ### brute force
 
@@ -42,6 +44,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 
 ### greedy
 
@@ -60,6 +63,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 
 ### math
@@ -86,6 +90,12 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 
 ---
 
