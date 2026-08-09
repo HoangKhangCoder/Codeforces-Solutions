@@ -1,0 +1,4 @@
+from math import isqrt
+k, n, w = list(map(int, input().split()))
+cost = k * w * (w + 1) // 2
+print(abs(min(0, n - cost)))
