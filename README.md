@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 14 | 9 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (7)
-- [math](#math) (4)
+- [implementation](#implementation) (8)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (1)
@@ -45,6 +45,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 
 ### greedy
 
@@ -65,6 +66,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 
 ### math
 
@@ -74,6 +76,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.txt) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 
 ### number theory
 
