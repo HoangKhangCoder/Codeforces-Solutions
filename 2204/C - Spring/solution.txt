@@ -1,0 +1,29 @@
+from math import lcm
+ 
+def per_token():
+    a, b, c, m = list(map(int, input().split()))
+    
+    lcm_ab = lcm(a, b)
+    lcm_ac = lcm(a, c)
+    lcm_bc = lcm(b, c)
+    lcm_abc = lcm(a, b, c)
+    
+    A = m // a
+    B = m // b
+    C = m // c
+    
+    ab = m // lcm_ab
+    ac = m // lcm_ac
+    bc = m // lcm_bc
+    
+    abc = m // lcm_abc
+    
+    water_a = 6 * A - 3 * ab - 3 * ac + 2 * abc
+    water_b = 6 * B - 3 * ab - 3 * bc + 2 * abc
+    water_c = 6 * C - 3 * ac - 3 * bc + 2 * abc
+    
+    print(water_a, water_b, water_c)
+ 
+t = int(input())
+for _ in range(t):
+    per_token()
