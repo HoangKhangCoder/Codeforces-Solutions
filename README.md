@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 16 | 10 |
 
 ---
 
@@ -15,6 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (5)
+- [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
 - [math](#math) (6)
@@ -46,6 +47,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/279/B%20-%20Books/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
 
 ### greedy
 
