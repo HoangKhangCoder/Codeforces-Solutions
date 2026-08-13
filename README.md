@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 10 |
+| 18 | 10 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (6)
-- [dp](#dp) (1)
-- [greedy](#greedy) (3)
+- [dp](#dp) (2)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (8)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
@@ -54,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 
 ### greedy
 
@@ -62,6 +63,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [PyPy 3-64](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/HoangKhangCoder/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 
 ### implementation
 
